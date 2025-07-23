@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:6a11cb,100:2575fc&height=300&section=header&text=I%20am%20Venom.&fontSize=70&fontColor=ffffff)
+
 
 
 
