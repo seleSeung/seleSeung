@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:f6d365,100:fd6e6a&height=300&section=header&text=seleSeung's%20GitHub!&fontSize=65&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=venom&height=300&section=header&text=seleSeung's%20GitHub!&fontSize=65&fontColor=ffffff)
+
 
 
 <!--
