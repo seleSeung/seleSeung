@@ -1,4 +1,4 @@
-[## seleSeung  👋](https://velog.io/@bi-sz/GitHub-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
+[## seleSeung  👋]
 
 <!--
 **seleSeung/seleSeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
