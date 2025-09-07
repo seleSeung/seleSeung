@@ -1,7 +1,7 @@
 <!-- 헤더 타이핑 배너 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Seungyeon+%F0%9F%91%8B;Java+%26+MySQL+lover;Learning+Cloud+%2F+Infra;Welcome+to+my+GitHub!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Seungyeon+%F0%9F%91%8B;Learning+Cloud+%2F+Infra;Welcome+to+my+GitHub!"/>
   </a>
 </p>
 
