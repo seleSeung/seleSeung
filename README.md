@@ -48,19 +48,31 @@
 
 ---
 
-## 📦 Projects (Pinned)
+## 📈 Stats
 <p align="center">
-  <a href="https://github.com/seleSeung/one-meal">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=seleSeung&repo=one-meal&theme=tokyonight&show_owner=true"/>
-  </a>
-  <a href="https://github.com/seleSeung/library-oop">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=seleSeung&repo=library-oop&theme=tokyonight&show_owner=true"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seleSeung&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </p>
 
 ---
 
-## 📈 Stats
+## 🗂️ Study Notes
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seleSeung&show_icons=true&theme=tokyonight&rank_icon=github"/>
+📚 객체지향 연습 문제 정리: <i>도메인 이벤트, 불변 객체, 의존성 역전</i><br/>
+🛢️ MySQL: <b>정규화 → 인덱스 → 실행 계획(EXPLAIN)</b> 으로 병목 파악, N+1/풀스캔 방지<br/>
+☁️ 클라우드: <b>VPC 서브넷/라우팅 → 보안그룹 → 로드밸런서</b> 흐름으로 설계 메모
+</p>
+
+---
+
+## 📫 Contact
+<p align="center">
+📧 이메일: <code>lomeme0114@naver.com</code><br/>
+💬 이슈/PR 환영합니다! 피드백으로 더 단단한 코드를 만듭니다 😊
+</p>
+
+---
+
+<!-- 풋터 -->
+<p align="center">
+  Made with ❤️ & Focus — keeping things simple, readable, and testable.
 </p>
