@@ -67,7 +67,6 @@
 ## 📈 Stats
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=seleSeung&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seleSeung&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p>
