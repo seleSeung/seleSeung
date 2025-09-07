@@ -69,8 +69,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=seleSeung&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </p>
 
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=seleSeung&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
