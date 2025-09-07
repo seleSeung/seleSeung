@@ -5,8 +5,15 @@
   </a>
 </p>
 
+<!-- GitAnimals -->
+<p align="center">
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/seleSeung" alt="gitanimals" />
+  </a>
+</p>
+
 <!-- 간단 소개 -->
-<h3 align="center">👩‍💻 Seungyeon Lee | Java · MySQL · Cloud Learner</h3>
+<h3 align="center">👩‍💻 Seungyeon Lee | Cloud Learner</h3>
 
 <p align="center">
   문제를 구조화하고 객체지향적으로 풀어내는 걸 좋아합니다.<br/>
