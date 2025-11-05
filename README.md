@@ -74,7 +74,6 @@
 ## 📫 Contact
 <p align="center">
 📧 이메일: <code>lomeme0114@naver.com</code><br/>
-💬 이슈/PR 환영합니다! 피드백으로 더 단단한 코드를 만듭니다 😊
 </p>
 
 ---
